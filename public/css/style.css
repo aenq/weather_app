@@ -1,0 +1,63 @@
+html {
+    height: 100%;
+}
+
+body {
+    width: 700px;
+    background-image: linear-gradient(lightblue, rgb(255, 255, 160));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin: auto;
+}
+
+.container {
+    margin: auto;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(238, 155, 1);
+}
+
+fieldset {
+    width: 400px;
+    margin: auto;
+    border: none;
+}
+
+form {
+    text-align: center;
+}
+
+.ghost-input {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 300px;
+    border-radius: 10px;
+    height: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.ghost-button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(238, 155, 1);
+    height: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 1px 1px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 15px;
+    margin: 20px 15px;
+    line-height: 0px;
+}
+
+.container p {
+    font-size: 24px;
+    color: rgb(238, 155, 1);
+    text-align: center;
+    font-weight: bold;
+}
