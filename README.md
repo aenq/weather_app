@@ -1,7 +1,7 @@
 # weather_app
 
-visit the website on https://weather-app-ku.herokuapp.com/
-available until November 28th, 2022, you know why :)
+Visit the website on https://weather-app-ku.herokuapp.com/ <br>
+(available until November 28th, 2022 :) )
 
 # stack
 - NodeJs
